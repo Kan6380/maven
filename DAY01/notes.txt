@@ -195,7 +195,7 @@ unzip apache-maven-3.9.11-bin.zip
 
 3) Set the class path/Environmental Variable
 
-# User specific environment and startup programs
+# User specific environment and startup programs(with this you can run maven cmnds frm any where)
 
 
 vi ~/.bash_profile  ---> add below two statements
